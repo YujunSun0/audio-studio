@@ -218,10 +218,3 @@ audio-studio/
 ## 주의 사항
 
 이 프로젝트는 **개인 학습과 개인 소장 용도**로 만들었습니다. YouTube 콘텐츠를 내려받는 것은 [YouTube 서비스 약관](https://www.youtube.com/t/terms)에 위배될 수 있습니다. 저작권이 있는 음원은 권리자의 허락 없이 배포하거나 상업적으로 이용할 수 없습니다. 사용에 따른 책임은 사용자에게 있습니다.
-
-## 감사의 말
-
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator)
-- [Demucs](https://github.com/facebookresearch/demucs) — Meta AI
-- BS-Roformer 모델: [UVR](https://github.com/Anjok07/ultimatevocalremovergui) 커뮤니티 (viperx, ZFTurbo)
